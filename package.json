@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/tngwenya93/node-express-course#readme",
   "dependencies": {
+    "dotenv": "^9.0.2",
     "express": "^4.17.1"
   }
 }
